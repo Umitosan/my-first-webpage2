@@ -1,0 +1,43 @@
+body{
+  font: 62.5%/1.5  "Lucida Grande", "Lucida Sans", Tahoma, Verdana, sans-serif;
+  background-image: url("https://previews.123rf.com/images/ensup/ensup1307/ensup130700018/20959853-Colorful-vintage-background-Stock-Photo-graffiti.jpg");
+  background-color: #cccccc;
+  background-repeat: repeat;
+  background-attachment: fixed;
+  /*background-position: center; */
+  text-align:center;
+}
+
+h1{
+  color: #000000;
+  font-family: cursive;
+  text-align: center;
+}
+h2{
+  color: #34TRGB;
+  font-size: 25px;
+  text-align: center;
+}
+
+h4{
+  color: #34TRGB;
+  font-size: 25px;
+  font-family: fantasy;
+  font-weight: 200;
+  text-align: center;
+  line-height: 20px;
+}
+
+p{
+  font-family: cursive;
+}
+
+ul{
+  font-size: 20px;
+  line-height: 23px;
+}
+
+img{
+    width: 50%;
+    height: auto;
+}
